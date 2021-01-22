@@ -1,0 +1,99 @@
+,,,,,
+Date,Lecture,Topic,Required Readings,Additional Readings,Class recording
+Jan 20,Lecture 0,"Class Overview
+[ PDF Lecture]","Chapter 1, Pages 3-13",,[video]
+Jan 25,Lecture 1,"Perfect Security, One-time Pad
+","Chapter 2. Sections 2.1, 2.2, 2.3",,
+Jan 27,Lecture 2,"Randomness: 
+Computational Security  
+and  Hardness","Chapter 3.1(pag 43-49)   
+Section 3.3.1 (pag. 60 - 63)",,
+Feb 1,Lecture 3 ,"Pseudorandom Generator Definition
+","Chapter 3.1(pag 43-49)   
+Section 3.3.1 (pag. 60 - 63)",,
+Feb 3,Lecture 4 ,"Pseudorandom Generators: 
+How to construct them",,,
+Feb 8,Lecture 5 ,"PRG Stretching 
+Proof by reduction",PRG Stretching: Chapter 7.4.2 (up to pag 261),,
+Feb 10,Lecture 6,"PRG
+Practice ",PRG Stretching: Chapter 7.4.2 (up to pag 261),,
+Feb 15,Lecture 7,"Pseudorandom Functions
+ Definitions",,,
+Feb 17,Lecture 8,"How to Construct PRF from PRG
+
+","Chapter: 3.5.1 Pags.77-78
+Chapter 7.5",,
+Feb 18 ,Lecture 9,"Practice with Pseudorandom Functions
+
+",,HW 1 - due,
+Feb 22,,"Encryption: 
+CPA-security
+Encryption scheme from PRF
+","CPA-security:
+Chapter 3.4.2 Pag. 73, 74",,
+Feb 24,,"CPA-security 
+Proof of Security 
+","CPA-security proof: Chapter 3.5.2
+",,
+Mar 1,,"Cipher modes
+","Blockcipher modes:
+Chapter 8.1 Joy of Cryptography
+",,
+Mar 3,,"Beast attack and 
+CPA-Practice
+",,HW 2 - due,
+Mar 8 ,,Test 1 ,,,
+Mar 10,,"Reflection,  Discussion
+Test 1 - Correction ",,,
+Mar 15,,"Key Exchange Problem
+Diffie-Hellman Key Exchange
+DDH assumption
+
+","Key Exchange: Ch: 10.1-10.2-10.3
+DDH Assumption: 8.3.1, 8.3.2
+Modular arithmetic basics: Appendix B.2.1,B.2.2
+More on basic concepts: Chap 0 - Joy of Cryptography",,
+Mar 17,,"Proof: Diffie-Hellman Key Exchange
+Exercises on Key Exchange","
+Public Key: Ch. 11.1, 11.2.1
+ElGamal Encryption: Ch 11.4.1
+Moreo on basic concepts: Chap 0 - Joy of Cryptography
+Modular arithmetic basics: Appendix B.2.1,B.2.2
+",,
+Mar 22,,"Public key encryption
+El-Gamal Encryption
+","Proof El-Gamal Encryption: Chap. 11.4.1. [Theorem 11.18] Pag 402-403
+MAC definition: Section 4.1, 4.2",,
+Mar 29,,"El-Gamal encryption: 
+Security proof
+Practice with CPA",,,
+Mar 31,,"Integrity and Authenticity
+Message Authentication Code
+","Definition: Section 4.1, 4.2
+Constructions: Section  4.3.1. 4.3.2
+(optional) CBC-MAC. Construction Section 4.11 (pag. 123)""",HW3  due,
+Apr 5 ,,"
+Digital Signatures
+
+One-time Signatures
+","Definition. Chapter 12.1- 12.2
+One-time Signature (Lamport Signature) 12.6.1
+Security proof of Lamport Signature) 12.6.1",,
+Apr 7,,"Practise Problems 
+",,,
+Apr 12,,"Hash Functions
+
+","Definition 5.1, Merkle Damgaard Transform 5.2
+Birthday Attack: 5.4 and Appendix A.4
+Collision Resistance Hash function from Discrete Log. Chapter 8.4.2
+Merkle Tree 5.6.2 (optional)",,
+Apr 14,,"More Practice with Hash, Mac and Signatures
+",,HW 4 due,
+Apr 19,,Test 2,,,
+Apr 21,,"Just for Fun
+Zero-Knowledge: A brief Introduction
+
+",Zero-Knolwedge proof (Boaz Barak's book),,
+Apr 26,,Project  Discussion,,,
+Apr 28,,Project Discussion,,,
+May 4,,Project due,,,
